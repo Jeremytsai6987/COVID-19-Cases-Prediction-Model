@@ -2,6 +2,10 @@
 
 ## Name: Ya-Wei Tsai
 
+## Created Date:
+
+Date: 04/07/2021
+
 ### Summary:
 
 This project aims to predict COVID-19 cases using regression analysis. The approach involves feature selection, data preprocessing, model training, and evaluation to forecast the number of cases. This README provides an overview of the project structure, setup instructions, and how to use the model for predictions.
@@ -14,8 +18,7 @@ This project aims to predict COVID-19 cases using regression analysis. The appro
 - [Evaluation](#evaluation)
 - [Conclusion](#conclusion)
 - [How to Use](#how-to-use)
-- [Dependencies](#dependencies)
-- [Acknowledgments](#acknowledgments)
+
 
 ### Introduction
 
